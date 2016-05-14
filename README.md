@@ -1,3 +1,3 @@
 # bwportfolio.github.io
 A black and white themed portfolio
-[site.png](stardub12.github.com/repository/site.png)
+[My Image](stardub12.github.com/repository/site.png)
